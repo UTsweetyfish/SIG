@@ -122,3 +122,46 @@ repos:
   - repo: fstrcmp
     group: deepin-sysdev-team
     info: A library which may be used to make a variety fuzzy comparisons, on strings and arrays of bytes, including wide character strings and multi-byte character strings.
+  
+  - repo: containerd
+  - repo: continuity
+  - repo: golang-github-blang-semver
+  - repo: golang-github-containerd-cgroups
+  - repo: golang-github-containerd-console
+  - repo: golang-github-containerd-fifo
+  - repo: golang-github-containerd-go-cni
+  - repo: golang-github-containerd-go-runc
+  - repo: golang-github-containerd-typeurl
+  - repo: golang-github-containernetworking-plugins
+  - repo: golang-github-containers-ocicrypt
+  - repo: golang-github-coreos-bbolt
+  - repo: golang-github-docker-go-events
+  - repo: golang-github-docker-go-metrics
+  - repo: golang-github-docker-go-units
+  - repo: golang-github-emicklei-go-restful
+  - repo: golang-github-gogo-googleapis
+  - repo: golang-github-go-logr-logr
+  - repo: golang-github-google-uuid
+  - repo: golang-github-grpc-ecosystem-go-grpc-prometheus
+  - repo: golang-github-imdario-mergo
+  - repo: golang-github-intel-goresctrl
+  - repo: golang-github-klauspost-compress
+  - repo: golang-github-moby-locker
+  - repo: golang-github-opencontainers-go-digest
+  - repo: golang-github-opencontainers-image-spec
+  - repo: golang-github-opencontainers-selinux
+  - repo: golang-github-opencontainers-specs
+  - repo: golang-github-prometheus-client-golang
+  - repo: golang-github-urfave-cli
+  - repo: golang-github-vishvananda-netlink
+  - repo: golang-gogottrpc
+  - repo: golang-google-grpc
+  - repo: golang-go-patricia
+  - repo: golang-gopkg-inf.v0
+  - repo: golang-go-zfs
+  - repo: golang-k8s-klog
+  - repo: golang-k8s-sigs-structured-merge-diff
+  - repo: golang-k8s-sigs-yaml
+  - repo: golang-opentelemetry-otel
+  - repo: gotest.tools
+  - repo: runc
